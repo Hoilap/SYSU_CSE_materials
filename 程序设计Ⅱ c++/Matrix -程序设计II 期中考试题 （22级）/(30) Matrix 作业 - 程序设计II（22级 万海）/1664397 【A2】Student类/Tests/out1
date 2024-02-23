@@ -1,0 +1,18 @@
+number of Student objects: 1
+number of Student objects: 2
+After creating student1 and student2
+student1 id: 111
+student1 birthday: 2023 3 16
+student2 id: 111
+student2 birth year: 2023 3 16
+0
+After modifying student2's birthDate
+student1 id: 111
+student1 birthday: 2023 3 16
+student2 id: 111
+student2 birth year: 2077 3 16
+number of Student objects: 2
+1
+number of Student objects: 3
+number of Student objects: 2
+number of Student objects: 2

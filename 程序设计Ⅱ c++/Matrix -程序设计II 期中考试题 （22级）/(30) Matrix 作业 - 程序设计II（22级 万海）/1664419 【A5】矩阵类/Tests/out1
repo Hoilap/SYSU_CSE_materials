@@ -1,0 +1,11 @@
+Matrix a:
+1 2 3
+1 2 3
+
+Matrix b:
+1 2 3
+1 2 3
+
+Matrix a += Matrix b :
+2 4 6
+2 4 6
